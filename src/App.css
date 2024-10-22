@@ -24,6 +24,15 @@
   color: white;
 }
 
+.Parent{
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-items: center;
+  border: 3px solid gold;
+  flex-direction: column;
+}
+
 .App-link {
   color: #61dafb;
 }
